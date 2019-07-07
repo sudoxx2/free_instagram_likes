@@ -8,7 +8,7 @@ Knowledge of installing software and CLI
 1. Install python - https://www.python.org/downloads/release/python-272/
 2. Install git - https://git-scm.com/downloads
 3. Open Powershell(windows 10) or terminal(macos)
-4. Make directory/folder to our files:
+4. Make directory/folder to hold files:
 ```
 mkdir instagram_likes
 ```
