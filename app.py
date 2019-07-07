@@ -1,4 +1,4 @@
-# Scroll all the way to the bottom to insert your login info/hashtag to automate free likes on instagram
+# Scroll all the way to the bottom(Line 85 and 87) to insert your login info/hashtag to automate free likes on instagram
 # In hoping doing so will get you free likes/follows on your profiles as well
 
 from selenium import webdriver
